@@ -1,0 +1,19 @@
+﻿Room,Type,RoomAmenity,ADA Accessible,Standard Occupancy,Maximum Occupancy,Base Price,Extra Person
+201,Double,1,0,2,4,199.99,10
+202,Double,5,1,2,4,174.99,10
+203,Double,1,0,2,4,199.99,10
+204,Double,5,1,2,4,174.99,10
+205,Single,3,0,2,2,174.99,null
+206,Single,2,1,2,2,149.99,null
+207,Single,5,0,2,2,174.99,null
+208,Single,2,1,2,2,149.99,null
+301,Double,1,0,2,4,199.99,10
+302,Double,5,1,2,4,174.99,10
+303,Double,1,0,2,4,199.99,10
+304,Double,5,1,2,4,174.99,10
+305,Single,3,0,2,2,174.99,null
+306,Single,2,1,2,2,149.99,null
+307,Single,3,0,2,2,174.99,null
+308,Single,2,1,2,2,149.99,null
+401,Suite,4,1,3,8,399.99,20
+402,Suite,4,1,3,8,399.99,20
