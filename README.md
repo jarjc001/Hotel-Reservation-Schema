@@ -67,3 +67,9 @@ For each query, include:
     The results of the query in a comment under the query
 
 Name the file YourName-HotelQueries.sql.
+
+
+Feedback
+Graded by Eugene O'Regan
+100.00 %
+Comments: Excellent organisation and documentation. 
