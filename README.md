@@ -1,4 +1,5 @@
 "# Hotel-Reservation-Schema" 
+
 Part 1: ERD
 
 Using the data presented above, create an ERD that represents the database.
